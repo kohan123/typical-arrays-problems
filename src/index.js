@@ -1,4 +1,3 @@
-
 exports.min = function min (array) {
   let mini = 0;
   if (array && array.length > 0) {
